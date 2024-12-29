@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknewsapp=self.webpackChunknewsapp||[]).push([[993],{993:(e,s,t)=>{t.r(s),t.d(s,{default:()=>c});t(43);var a=t(579);const n=["sports","politics","entertainment","health","fitness"],c=e=>{let{setSearch:s}=e;return(0,a.jsx)("div",{className:"categorybtn",children:n.map((e=>(0,a.jsx)("button",{onClick:()=>s(e),children:e.charAt(0).toUpperCase()+e.slice(1)},e)))})}}}]);
+//# sourceMappingURL=993.c80da18e.chunk.js.map
